@@ -21,7 +21,12 @@
             <artifactId>zt-zip</artifactId>
             <version>1.12</version>
         </dependency>
-
+ <dependency>
+            <groupId>com.github.jsimone</groupId>
+            <artifactId>webapp-runner-redis</artifactId>
+            <version>8.5.28.0</version>
+        </dependency>
+        
         <dependency>
             <groupId>org.apache.struts</groupId>
             <artifactId>struts-core</artifactId>
